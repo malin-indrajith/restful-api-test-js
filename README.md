@@ -46,8 +46,8 @@ Ensure the following dependencies are installed before executing the tests:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/malin-indrajith/restful-api-test-js.git
+   cd restful-api-test-js
    ```
 
 2. **Install dependencies**:
