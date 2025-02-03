@@ -1,5 +1,5 @@
 /**  
- * Assignment_Amused Group: REST API Testing with Playwright  
+ * Assignment: REST API Testing with Playwright  
  * Author: Malin Indrajith Amarasinghe  
  * Date: February 3, 2025  
  *  
