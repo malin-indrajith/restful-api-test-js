@@ -76,11 +76,6 @@ npx playwright test api.test.js
 
 The console output provides detailed logs, including API responses and assertion results.
 
-Playwright generates an HTML report that can be viewed using:  
-```bash
-npx playwright show-report
-```
-
 ### Summary of Test Scenarios  
 
 1. **Retrieve All Objects (GET Request)**  
